@@ -5,6 +5,7 @@
 Useful for rate-limiting async (or sync) operations. For example, when interacting with a REST API or when doing CPU/memory intensive tasks.
 
 ## Install
+test
 
 ```
 $ npm install p-queue
